@@ -407,7 +407,7 @@ a.btnLaunch,
 .offsetNav li a,
 .offsetNavQL li.title,
 .info ul li span {
-	font-family: 'open_sansbold', Arial, sans-serif;
+	font-family: "Microsoft Yahei",'open_sansbold', Arial, sans-serif;
 }
 
 .innerIntro h1 span,
@@ -424,7 +424,7 @@ ul#category li a,
 .det h3 span,
 .date span,
 .rcgDet h3 span {
-	font-family: 'open_sanslight_italic', Arial, sans-serif;
+	font-family: "Microsoft Yahei","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .innerIntro p .brand,

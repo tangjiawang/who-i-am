@@ -747,8 +747,15 @@ h1.prfTitle span {
 	text-transform: uppercase;
 }
 
-.percent90 {
-	width: 90%;
+
+.percent10 {
+	width: 10%;
+}
+.percent20 {
+	width: 20%;
+}
+.percent30 {
+	width: 30%;
 }
 
 .percent40 {
@@ -756,13 +763,21 @@ h1.prfTitle span {
 }
 
 .percent50 {
-	width: 70%;
+	width: 50%;
 }
 
 .percent60 {
 	width: 60%;
 }
-
+.percent70 {
+	width: 70%;
+}
+.percent80 {
+	width: 80%;
+}
+.percent90 {
+	width: 90%;
+}
 .percent95 {
 	width: 95%;
 }
