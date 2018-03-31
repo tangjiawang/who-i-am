@@ -369,5 +369,6 @@ iframe{width:100%;frameborder:0;}
 	.bgGreen{background:#4ac2be;}
 	.bgGreenDark{background:#3eafab;}
 	.secTitle.pricingTitle h1{color:#f4f4f4;}
-
-
+.name{
+	text-transform: none;
+}
